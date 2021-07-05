@@ -1,1 +1,8 @@
+# vscode 확장 프로그램 중 Code spell checker가 이상하다고 생각하는 단어 중
+# 실제로 이상없는 단어들만 ignore word로 따로 빼낸 파일 
+.vscode
+
+# npm install로 설치가 가능하기에 굳이 git에 올리지 않아도 되는 폴더
 node_modules
+
+.gitignore
