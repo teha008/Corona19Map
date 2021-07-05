@@ -6,7 +6,7 @@
 
 [실행 방법]
 코드를 다운로드 후 
-1. npm install
-2. npm start
+1. npm install (노드 모듈 설치)
+2. npm start (서버 실행)
 3. 브라우저 주소창 localhost:3000 입력
 4. 실행 후 제대로 돌아가는 
